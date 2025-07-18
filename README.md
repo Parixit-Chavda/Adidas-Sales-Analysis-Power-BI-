@@ -35,3 +35,4 @@ strengths, and product distribution trends.
 
 
 Screenshot :
+![image alt](https://github.com/Parixit-Chavda/Adidas-Sales-Analysis-Power-BI-/blob/main/Adidas%20Sales%20Dashboard(POWER%20BI).png)
